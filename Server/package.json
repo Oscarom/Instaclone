@@ -1,0 +1,16 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "El server",
+  "main": "index.js",
+  "author": "Oscar Gonzalez",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.22.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.12.2"
+  }
+}
